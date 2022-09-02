@@ -4,6 +4,7 @@ int c = -12;
 
 int main()
 {
-  c = a + b;
-  return 0;
+    b = -5;
+    c = a + b;
+    return 0;   
 }
